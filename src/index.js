@@ -13,4 +13,4 @@ render(
     <App />
   </Provider>,
   document.getElementById('root')
-);//edit 123 4312345444444 before pull
+);//edit 123 4312345444444 before pull commit info
